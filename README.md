@@ -40,3 +40,15 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+## Contributors
+This project was a collaboration of 
+
+[Alan Hajo](https://github.com/AlanoxSwe)
+
+[Annika Hallerberg](https://github.com/annika-works)
+
+[Jonmar Tamon](https://github.com/mar-veloper)
+
+as part of a three-month extensive Full-Stack Javascript Development bootcamp by the School of Applied Technology Stockholm.
